@@ -1,0 +1,9 @@
+.content {
+  border: 2px solid blue;
+  width: 600px;
+  height: 250px;
+  margin: auto;
+}
+table {
+  text-align: center;
+}
